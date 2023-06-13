@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
-from sklearn.linear_model import LinearRegression
-import matplotlib.pyplot as plt
+
 
 def main():
     st.title("Analisis Regresi Linier Sederhana dengan Visualisasi Model")
